@@ -6,7 +6,7 @@ Welcome to the official GitHub repository of **Vectradigi Technologies** – inn
 
 ## 🏢 About Us
 **Vectradigi Technologies** is dedicated to transforming the way businesses and institutions engage with information. From advanced LED displays to smart classroom setups, we provide high-tech solutions tailored for retail, education, healthcare, and corporate environments.
-
+🔗 [https://vectradigi.com/about-led-screen-manufacturers-in-india/](https://vectradigi.com/about-led-screen-manufacturers-in-india/)
 ---
 
 ## 📝 Blogs
@@ -23,12 +23,12 @@ We're here to help you with product queries, partnerships, or support:
 
 ## 🧩 Our Products
 
-- 🔹 [Active LED Display](https://vectradigi.com/product/active-led-display/)
-- 🔹 [Digital Standee](https://vectradigi.com/product/digital-standee/)
-- 🔹 [Digital Podium](https://vectradigi.com/product/digital-podium/)
-- 🔹 [Slim Podium](https://vectradigi.com/product/slim-podium/)
-- 🔹 [Computer Kiosk](https://vectradigi.com/product/computer-kiosk/)
-- 🔹 [Digital Signage & CMS](https://vectradigi.com/product/digital-signage-cms/)
+- [Vibrant Outdoor Active LED Display Screens](https://vectradigi.com/product/active-led-display/)
+- [Freestanding Digital Standee for Smart Advertising](https://vectradigi.com/product/digital-standee/)
+- [All-in-One Digital Podium for Smart Classrooms](https://vectradigi.com/product/digital-podium/)
+- [Slim Presentation Podium with Integrated Display](https://vectradigi.com/product/slim-podium/)
+- [Touchscreen Computer Kiosk for Self-Service](https://vectradigi.com/product/computer-kiosk/)
+- [Digital Signage with CMS Control](https://vectradigi.com/product/digital-signage-and-cms/)
 
 ---
 
