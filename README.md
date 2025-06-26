@@ -4,12 +4,6 @@ Welcome to the official GitHub repository of **Vectradigi Technologies** – inn
 
 ---
 
-## 🌐 Website
-Explore our full range of products and services at:  
-🔗 [https://vectradigi.com](https://vectradigi.com)
-
----
-
 ## 🏢 About Us
 **Vectradigi Technologies** is dedicated to transforming the way businesses and institutions engage with information. From advanced LED displays to smart classroom setups, we provide high-tech solutions tailored for retail, education, healthcare, and corporate environments.
 
