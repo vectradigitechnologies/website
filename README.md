@@ -6,8 +6,8 @@ Welcome to the official GitHub repository of **Vectradigi Technologies** – inn
 
 ## 🏢 About Us
 Vectradigi Technologies is dedicated to transforming the way businesses and institutions engage with information. From advanced LED displays to smart classroom setups, we provide high-tech solutions tailored for retail, education, healthcare, and corporate environments.
-
 🔗 [https://vectradigi.com/about-led-screen-manufacturers-in-india/](https://vectradigi.com/about-led-screen-manufacturers-in-india/)
+
 ---
 
 ## 📝 Blogs
