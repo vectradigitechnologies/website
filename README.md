@@ -17,7 +17,7 @@ Stay updated with our latest insights on display technology, smart infrastructur
 
 ## 📞 Contact Us
 We're here to help you with product queries, partnerships, or support:  
-🔗 [https://vectradigi.com/contact-us](https://vectradigi.com/contact-us)
+🔗 [https://vectradigi.com/contact-vectradigi-technologies/](https://vectradigi.com/contact-vectradigi-technologies/)
 
 ---
 
